@@ -1,0 +1,11 @@
+{
+  "name": "rapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lilvodnik/rapp.git",
+  "author": "olga_pozdnyakova <thepozdnyakova@gnail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
